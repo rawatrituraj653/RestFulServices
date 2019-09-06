@@ -1,0 +1,25 @@
+[ {
+  "customer-id" : 110002,
+  "customer-name" : "Amit",
+  "customer_email" : "Amit12@gmail.com",
+  "account-balance" : 5000.0,
+  "customer_dob" : "1991-12-29"
+}, {
+  "customer-id" : 110003,
+  "customer-name" : "Sumit",
+  "customer_email" : "Sumit22@gmail.com",
+  "account-balance" : 4230.0,
+  "customer_dob" : "2016-11-23"
+}, {
+  "customer-id" : 110004,
+  "customer-name" : "Kumar",
+  "customer_email" : "Kumar12@gmail.com",
+  "account-balance" : 6000.0,
+  "customer_dob" : "1998-07-18"
+}, {
+  "customer-id" : 110005,
+  "customer-name" : "Ashok",
+  "customer_email" : "Ashokit12@gmail.com",
+  "account-balance" : 7450.0,
+  "customer_dob" : "1993-06-16"
+} ]

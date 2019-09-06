@@ -1,0 +1,30 @@
+[
+  {
+    "empid": 10001,
+    "empName": "Rituraj",
+    "empDept": 20,
+    "loc": "New York",
+    "dob": "Aug 29, 2019 2:49:05 PM"
+  },
+  {
+    "empid": 10002,
+    "empName": "James",
+    "empDept": 30,
+    "loc": "Chilli",
+    "dob": "Aug 29, 2019 2:49:05 PM"
+  },
+  {
+    "empid": 10003,
+    "empName": "Clark",
+    "empDept": 30,
+    "loc": "Jermany",
+    "dob": "Aug 29, 2019 2:49:05 PM"
+  },
+  {
+    "empid": 10004,
+    "empName": "Miller",
+    "empDept": 30,
+    "loc": "London",
+    "dob": "Aug 29, 2019 2:49:05 PM"
+  }
+]

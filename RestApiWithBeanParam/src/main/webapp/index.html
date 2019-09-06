@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+<style type="text/css">
+body{
+	background-color: lightYellow
+}
+
+
+</style>
+</head>
+<body>
+	<div class="container">
+	<h2 class="h2 text-center text-primary">Register Here</h2>
+	<form action="api/user/save" method="post" class="form-group">
+		<label class="text-info h3">Enter user Name</label>
+		<input type="text" name="uname" class="form-control"/>
+		<label class="text-info h3">Enter Password</label>
+		<input type="password" name="pwd" class="form-control"/>
+		<label class="text-info h3">Enter Email</label>
+		<input type="text" name="email" class="form-control"/>
+		<input type="submit" value="Register" class="btn btn-success"/>
+		<input type="reset" value="reset" class="btn btn-danger"/>
+	</form>
+	</div>
+</body>
+</html>
